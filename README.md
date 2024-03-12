@@ -1,7 +1,5 @@
 # AMCA3D
 
-# AMCA3D
-
 AMCA3D (3D Cellular Automata method for Additive Manufacturing) is a parallel C++ program designed for modeling mesoscale grain structure evolution during the additive manufacturing process.
 
 # Requirement
@@ -109,6 +107,13 @@ Execute this for an executable file `AMCA3D`:
 ./configure.sh
 make
 ```
+
+# TroubleShooting
+## Permission denied when running .sh scripts
+https://askubuntu.com/questions/409025/permission-denied-when-running-sh-scripts
+
+##  boost_filesystemConfig.cmake & boost_filesystem-config.cmake
+https://techoverflow.net/2021/07/08/how-to-fix-cmake-error-could-not-find-a-package-configuration-file-provided-by-boost_filesystem/
 
 # ****Tutorial & examples****
 
