@@ -1,7 +1,5 @@
 # AMCA3D
 
-# AMCA3D
-
 AMCA3D (3D Cellular Automata method for Additive Manufacturing) is a parallel C++ program designed for modeling mesoscale grain structure evolution during the additive manufacturing process.
 
 # Requirement
